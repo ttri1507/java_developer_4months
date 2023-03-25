@@ -7,3 +7,8 @@ IDE: Eclipse Free (Red hat) /Vscode/Netbeans
 Version: JDK 1.8 (Community).
 
 Support: Window Builder 1.9.0 (create basic form running on Window). Jboss,...
+
+JMenu: 
++ Functional
++ Objection
++ Procession
